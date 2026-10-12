@@ -206,6 +206,7 @@
 - [getaxonflow/axonflow-openclaw-plugin](https://github.com/getaxonflow/axonflow-openclaw-plugin) ![GitHub Repo stars](https://img.shields.io/github/stars/getaxonflow/axonflow-openclaw-plugin?style=social) - AxonFlow governance for OpenClaw agents — block dangerous tools, govern MCP access, and keep audit trails.
 - [secr-dev/openclaw-plugin](https://github.com/secr-dev/openclaw-plugin) ![GitHub Repo stars](https://img.shields.io/github/stars/secr-dev/openclaw-plugin?style=social) - Native secrets manager plugin for OpenClaw — brokers credentials, enforces per-agent allowlists, gates tool calls through MCP with approval queues.
 - [backbay-labs/clawdstrike](https://github.com/backbay-labs/clawdstrike) ![GitHub Repo stars](https://img.shields.io/github/stars/backbay-labs/clawdstrike?style=social) - AI EDR for developer workstations and autonomous agent fleets with swarm detection and response.
+- [Frank-Masciopinto/ironheights](https://github.com/Frank-Masciopinto/ironheights) ![GitHub Repo stars](https://img.shields.io/github/stars/Frank-Masciopinto/ironheights?style=social) - Static scanner for ClawHub skills before install, with integrity pinning and quarantine.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
